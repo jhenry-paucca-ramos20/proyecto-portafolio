@@ -1,0 +1,11 @@
+body{
+    background-image: url("IMAGENES/fondo.jpg");
+    background-color: rgb(72, 72, 216);
+}
+.padre{
+    text-align: center;
+}
+button{
+    background-color: cornflowerblue;
+    border-radius: 999px;
+}
